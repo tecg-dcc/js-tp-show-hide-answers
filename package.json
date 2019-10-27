@@ -1,8 +1,8 @@
 {
-  "name": "Boilerplate_JS",
+  "name": "js-tp-show-hide-answers",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "git@github.com:DanielSchreurs/Boilerplate_JS.git",
+  "repository": "git@github.com:hepl-dcc/js-tp-show-hide-answers.git",
   "author": "Daniel Schreurs <daniedaniel.schreurs@hotmail.com>",
   "license": "MIT",
   "devDependencies": {

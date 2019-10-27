@@ -161,3 +161,4 @@ $RECYCLE.BIN/
 /mix-manifest.json
 
 # Project exclude paths
+/dist/js/script.min.js
